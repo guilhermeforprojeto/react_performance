@@ -21,4 +21,4 @@ function Buscador({ busca, setBusca }: Props) {
   );
 }
 
-export default memo(Buscador);
+export default (Buscador);
