@@ -2,7 +2,7 @@
 
 # Curso na Alura :technologist:
 
-Esse repositío esta sendo usado para os conteudos que estou aprendendo nas aulas do curso.
+Esse repositório esta sendo usado para os conteudos que estão aprendendo nas aulas do curso.
 <br>
 :link: <a href=" https://cursos.alura.com.br/course/react-otimizando-performance" style = "font-family:courier,arial,helvetica;"><span style="color: #808080" >Link do curso: </span>https://cursos.alura.com.br/course/react-otimizando-performance </a>
 
@@ -14,8 +14,11 @@ Esse repositío esta sendo usado para os conteudos que estou aprendendo nas aula
 
 Principais assuntos abordados
 
+<li> O bom uso da extenção React Developer Tools</li>
 <li> Memoização e como utilizar o React.memo </li>
 <li> Importancia de usar o ID e não o Index quando for usar o map</li>
 <li> Reconciliation</li>
 <li> Imutabilidade</li>
-<li> Hook useMemo</li>
+<li> Hook React useMemo / memo</li>
+<li> React Suspense fallback</li>
+<li> React Lazy </li>
